@@ -1,0 +1,18 @@
+Age is a Major Factor: The "Churn rate with age" plot shows that churn peaks significantly among customers in the mid-40s to mid-60s age range. This "middle-aged" segment is the most vulnerable.
+
+Inactive Members Churn More: The "Customers active status" chart shows that the count of churned customers is noticeably higher among inactive members than active ones.
+
+Geographic Disparity (Germany is Key): The "Customers By Country" chart and the "Churned Analysis Based on Countries" map both clearly indicate that Germany has the highest number of churned customers, followed by France and Spain.
+
+Gender: Female customers appear to churn at a higher rate than male customers, as the churned segment (likely the darker bar) is higher for Female in the "Customers By Gender" chart.
+
+Credit Card Status: The donut chart shows that the majority of customers do have a credit card (approx. 79.55%), but the actual churn rate of those with and without a card would need to be filtered to fully assess the risk.
+
+Product Usage: Customers with Product 1 and Product 2 account for the vast majority of the customer base and, consequently, the highest churn volume in the "Customers By Products" chart.
+
+Suggestions:
+Prioritize Germany & Middle-Aged: Allocate specialized retention budgets to the German market and target the 45-65 age group with personalized offers (e.g., wealth management or retirement products).
+
+Re-engagement for Inactives: Trigger automated, time-sensitive campaigns (via email or app notification) for any customer classified as Inactive to boost their engagement before they leave.
+
+Address Gender Disparity: Investigate why female customers churn more frequently. This might require focusing on product features, personalized marketing, or improving specific customer service channels.
